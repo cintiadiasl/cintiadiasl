@@ -87,11 +87,3 @@ Mais informações no LinkedIn: [Cíntia Dias](https://www.linkedin.com/in/diasl
 LinkedIn: [www.linkedin.com/in/diaslcintia/](https://www.linkedin.com/in/diaslcintia/)
 
 ---
-<h2 align="center">🐍 My GitHub Contributions</h2>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/cintiadiasl/cintiadiasl/output/snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
