@@ -7,6 +7,7 @@ Tenho graduação em Análise e Desenvolvimento de Sistemas e concluí a Mentori
 Sou uma pessoa versátil, entusiasta da tecnologia
 e focada em aprendizado contínuo. Meu objetivo, é aplicar o conhecimento académico na prática do dia a dia de Quality Assurance (QA), porque acredito que a Qualidade não é apenas uma etapa final, mas um mindset que deve acompanhar todo o Ciclo de Vida de Desenvolvimento do Software (SDLC).  
 Tenho Licenciatura em Educação Artística com Habilitação em Músical e vejo que a comunicação, disciplina,  concentração e atenção aos detalhes, conquistadas através da música, são uma mais valia para a área da tecnologia.
+<br> 
 Mais informações no LinkedIn: [Cíntia Dias](https://www.linkedin.com/in/diaslcintia/)
     
 ---
@@ -79,7 +80,7 @@ Mais informações no LinkedIn: [Cíntia Dias](https://www.linkedin.com/in/diasl
 
 * Português: Nativo
 * Inglês: Intermediário (B1 - a estudar)
-* Francês: Básico (a estudar)
+* Francês: Básico (A2 estudar)
 
 ---
 
