@@ -80,7 +80,7 @@ Mais informações no LinkedIn: [Cíntia Dias](https://www.linkedin.com/in/diasl
 
 * Português: Nativo
 * Inglês: Intermediário (B1 - a estudar)
-* Francês: Básico (A2 estudar)
+* Francês: Básico (A2 - a estudar)
 
 ---
 
